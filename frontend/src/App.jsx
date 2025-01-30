@@ -1,6 +1,6 @@
 
 import './App.css'
-import CounterApp from './CounterApp'
+import CounterApp from './MVC/view/CounterApp'
 
 function App() {
 
